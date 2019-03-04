@@ -1,0 +1,11 @@
+I:\Work\PersonProject\Github\ProgrammaTest\Programma\ProgrammaConsole\bin\Debug\netcoreapp2.1\ProgrammaConsole.deps.json
+I:\Work\PersonProject\Github\ProgrammaTest\Programma\ProgrammaConsole\bin\Debug\netcoreapp2.1\ProgrammaConsole.runtimeconfig.json
+I:\Work\PersonProject\Github\ProgrammaTest\Programma\ProgrammaConsole\bin\Debug\netcoreapp2.1\ProgrammaConsole.runtimeconfig.dev.json
+I:\Work\PersonProject\Github\ProgrammaTest\Programma\ProgrammaConsole\bin\Debug\netcoreapp2.1\ProgrammaConsole.dll
+I:\Work\PersonProject\Github\ProgrammaTest\Programma\ProgrammaConsole\bin\Debug\netcoreapp2.1\ProgrammaConsole.pdb
+I:\Work\PersonProject\Github\ProgrammaTest\Programma\ProgrammaConsole\obj\Debug\netcoreapp2.1\ProgrammaConsole.csprojAssemblyReference.cache
+I:\Work\PersonProject\Github\ProgrammaTest\Programma\ProgrammaConsole\obj\Debug\netcoreapp2.1\ProgrammaConsole.csproj.CoreCompileInputs.cache
+I:\Work\PersonProject\Github\ProgrammaTest\Programma\ProgrammaConsole\obj\Debug\netcoreapp2.1\ProgrammaConsole.AssemblyInfoInputs.cache
+I:\Work\PersonProject\Github\ProgrammaTest\Programma\ProgrammaConsole\obj\Debug\netcoreapp2.1\ProgrammaConsole.AssemblyInfo.cs
+I:\Work\PersonProject\Github\ProgrammaTest\Programma\ProgrammaConsole\obj\Debug\netcoreapp2.1\ProgrammaConsole.dll
+I:\Work\PersonProject\Github\ProgrammaTest\Programma\ProgrammaConsole\obj\Debug\netcoreapp2.1\ProgrammaConsole.pdb
